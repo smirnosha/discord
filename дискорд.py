@@ -297,4 +297,4 @@ async def on_message(message):
             await message.channel.send(picture)
 
 
-client.run('ODM0ODMxMzg4OTUwNzkwMTY0.YIGnUQ.iG5DSdjzB36atNdCOvUpFgO4uJk')
+client.run('')
